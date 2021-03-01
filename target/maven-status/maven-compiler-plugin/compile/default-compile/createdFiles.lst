@@ -1,0 +1,5 @@
+Main.class
+PriceFetcher.class
+Alert.class
+Notifier.class
+Notifier$PriceFetchTask.class
